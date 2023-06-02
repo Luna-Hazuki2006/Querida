@@ -4,3 +4,9 @@ body {
 div {
     border: 3px dotted fuchsia;
 }
+.izquierda {
+    float: left;
+}
+.metido {
+    overflow: auto;
+}
